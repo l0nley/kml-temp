@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>??????? 53.943227, 27.465739 – 53.914954, 27.538522</name>
+		<Placemark>
+			<name>??????? 53.943227, 27.465739 – 53.914954, 27.538522</name>
+			<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>27.46574,53.94323,0.0 27.46581,53.94319,0.0 27.46599,53.94328,0.0 27.4661,53.94338,0.0 27.46636,53.9435,0.0 27.46672,53.94359,0.0 27.46747,53.94377,0.0 27.46806,53.94397,0.0 27.46846,53.94413,0.0 27.46877,53.94431,0.0 27.46917,53.94453,0.0 27.47008,53.94498,0.0 27.47065,53.94522,0.0 27.47073,53.94525,0.0 27.47154,53.94515,0.0 27.47201,53.94506,0.0 27.47284,53.94485,0.0 27.47544,53.94416,0.0 27.47619,53.94396,0.0 27.47917,53.94302,0.0 27.47967,53.9429,0.0 27.47996,53.94283,0.0 27.48008,53.9427,0.0 27.48003,53.94241,0.0 27.48012,53.94177,0.0 27.4819,53.94102,0.0 27.48311,53.94027,0.0 27.48358,53.93992,0.0 27.48364,53.93987,0.0 27.48396,53.9395,0.0 27.48429,53.93905,0.0 27.48596,53.93957,0.0 27.48642,53.93967,0.0 27.48656,53.9397,0.0 27.48693,53.93974,0.0 27.48796,53.93969,0.0 27.48829,53.93964,0.0 27.48866,53.93958,0.0 27.49062,53.93923,0.0 27.49162,53.93905,0.0 27.49255,53.93888,0.0 27.49494,53.93851,0.0 27.49524,53.93846,0.0 27.4946,53.93765,0.0 27.4941,53.93698,0.0 27.49397,53.93681,0.0 27.49556,53.93639,0.0 27.49752,53.93576,0.0 27.50104,53.93456,0.0 27.50257,53.93405,0.0 27.51038,53.93126,0.0 27.51127,53.93089,0.0 27.51169,53.93068,0.0 27.51393,53.92959,0.0 27.51446,53.92932,0.0 27.51473,53.92918,0.0 27.51504,53.92902,0.0 27.51588,53.92859,0.0 27.51732,53.92786,0.0 27.51776,53.92764,0.0 27.52077,53.92613,0.0 27.5209,53.92606,0.0 27.52121,53.92591,0.0 27.52229,53.9254,0.0 27.52334,53.92485,0.0 27.52336,53.92484,0.0 27.52341,53.92481,0.0 27.52347,53.92478,0.0 27.52444,53.92432,0.0 27.52494,53.92405,0.0 27.52542,53.92378,0.0 27.52583,53.92354,0.0 27.52624,53.92328,0.0 27.52628,53.92325,0.0 27.52654,53.92307,0.0 27.52685,53.92285,0.0 27.52973,53.92066,0.0 27.52992,53.9205,0.0 27.53015,53.92031,0.0 27.53178,53.91908,0.0 27.53275,53.91834,0.0 27.53362,53.91761,0.0 27.53379,53.91747,0.0 27.53491,53.91671,0.0 27.53501,53.91675,0.0 27.53515,53.91665,0.0 27.53583,53.91619,0.0 27.53659,53.91578,0.0 27.53749,53.91535,0.0 27.53828,53.91504,0.0 27.53852,53.91495,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>53.943227, 27.465739</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.4657436,53.9432296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>53.914954, 27.538522</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<Point>
+				<coordinates>27.5385212,53.9149532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
